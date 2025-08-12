@@ -1,0 +1,7 @@
+a. 
+- git config --global user.name "your name"
+- git config --global user.email "your email"
+
+b.
+- git config --global user.name "PW-thanhduom"
+
