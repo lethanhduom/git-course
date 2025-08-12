@@ -5,3 +5,6 @@ a.
 b.
 - git config --global user.name "PW-thanhduom"
 
+c.
+- git commit -m"your note"
+
